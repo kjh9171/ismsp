@@ -6,4 +6,4 @@ pydantic
 pandas
 python-multipart
 openpyxl  # 엑셀 파일 읽기용 라이브러리 추가
-reportlab
+reportlab  # <--- PDF 생성 필수 라이브러리
